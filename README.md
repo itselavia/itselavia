@@ -1,6 +1,6 @@
 ### Hey! 👋:technologist:
 I'm Akshay Elavia. I'm a Software Engineer who enjoys working with cloud technologies, DevOps, and cloud security. </br>
-Currently working at Electronic Arts (so cool, i know right!) as a Software Engineering Cloud Intern, where I work with Golang, Kubernetes and AWS. My team is responsible for developing and running massive Kubernetes clusters to support online multiplayer gaming sessions for a wide variety of EA games. Feel free to contact me on any of the following socials: </br>
+Currently working at Electronic Arts (so cool, i know right!) as a Software Engineering Cloud Intern, where I work with Golang, Kubernetes and AWS. My team is responsible for developing and running massive Kubernetes clusters to support online multiplayer gaming sessions for a wide variety of EA games. Also, I'm pursuing my Masters degree in Software Engineering from San Jose State University. Feel free to contact me on any of the following socials: </br>
 - Tech Blog: [Learning Orbit](https://itselavia.github.io) </br>
 - [@Munchin_JugHead](https://twitter.com/Munchin_JugHead) on Twitter </br>
 - [LinkedIn Profile](https://www.linkedin.com/in/akshay-elavia-30969919/) </br>
